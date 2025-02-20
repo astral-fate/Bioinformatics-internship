@@ -28,22 +28,17 @@ coding genes and functional annotations
 https://db.cngb.org/search/sample/?q=PRJNA289090
 
 
-Subsystem Genome Analysis (Module 6)
+- Module 4: Antimicrobial Resistant (AMR) Gene Analysis
+
+
+- Module 5: Data Cleaning and Visualization of Resistome Profile
+
+
+- Module 6: Subsystem Genome Analysis (Module 6)
 
 
 Module 6: Subsystem Functional Categorization and Heatmap Representation
 (Visualization)
-
-
-5. Comparative Genome Analysis (Insights into Spread and Transmission) 
-
-Step 6: MLST and cgMLST Analysis
-
-- Use MLST and cgMLST analysis tools (e.g., MLST, cgMLST) to determine the sequence type
-(ST) and core genome multilocus sequence type (cgMLST) of each isolate
-
-- Evaluate the genetic diversity and population structure of the bacterial isolates
-
 ## Data disturbution 
 
 https://www.ncbi.nlm.nih.gov/pathogens/isolates/#%22Salmonella%20enterica%22%20AND%20%22antimicrobial%20resistance%22
