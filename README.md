@@ -28,6 +28,15 @@ coding genes and functional annotations
 https://db.cngb.org/search/sample/?q=PRJNA289090
 
 
+Subsystem Genome Analysis (Module 6)
+
+
+Module 6: Subsystem Functional Categorization and Heatmap Representation
+(Visualization)
+
+
+5. Comparative Genome Analysis (Insights into Spread and Transmission) 
+
 Step 6: MLST and cgMLST Analysis
 
 - Use MLST and cgMLST analysis tools (e.g., MLST, cgMLST) to determine the sequence type
