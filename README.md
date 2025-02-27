@@ -1,12 +1,14 @@
 # Bioinformatics-internship 
 
 
-# Course Overview
-
-[Course Info](https://sites.google.com/view/mongodbpython/home)
+# Internship Overview
 
 
-# SE203 Advanced Topics in Database Course Structure  
+
+
+# Internship Syllabus
+
+
 
 | Module | Main Topics Covered | Key Topics | Deliverables
 |----------------|-------------------| ---- | ------ |
@@ -19,6 +21,14 @@
 
 
 
-https://data.mendeley.com/research-data/?type=DATASET&search=%22Salmonella%20typhi%22%20AND%20%22antimicrobial%20resistance%22
+## Research project outlines
 
-https://www.typhoidgenomics.org/
+
+- Module 4: Antimicrobial Resistant (AMR) Gene Analysis
+
+
+- Module 5: Data Cleaning and Visualization of Resistome Profile
+
+
+- Module 6: Subsystem Functional Categorization and Heatmap Representation
+(Visualization)
