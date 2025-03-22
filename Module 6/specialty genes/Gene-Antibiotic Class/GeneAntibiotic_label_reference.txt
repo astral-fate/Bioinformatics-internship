@@ -1,0 +1,33 @@
+GENE-ANTIBIOTIC CLASS LABEL REFERENCE
+=====================================
+
+GENE LABELS:
+Gene 1: AAC(6')-Ic,f,g,h,j,k,l,r-z
+
+CLASS LABELS:
+Class 10: Fluoroquinolones Quinolones Quinolines
+Class 11: Fluoroquinolones Quinolones Quinolines, Aminocoumarin antibiotics
+Class 12: Fluoroquinolones Quinolones Quinolines, Cephalosporins, Penams, Cephamycins
+Class 17: Isoniazid, Ethionamide, Triclosan
+Class 20: Multiple antibiotic resistance
+Class 21: Multiple antibiotic resistance, Tetracyclines, Quaternary ammonium compounds
+Class 23: Myxopyronins Corallopyronins, Peptide antibiotics
+Class 24: Nucleoside antibiotics, Phenicol antibiotics, Lincosamides, Fluoroquinolones Quinolones Quinolines, Acridine dye
+Class 25: Penams, Carbapenems, Cephamycins, Cephalosporins, Monobactams, Tetracyclines, Rifamycins, Phenicol antibiotics,  Glycylcyclines, Fluoroquinolones Quinolones Quinolines, Triclosan
+Class 26: Penams, Cephamycins, Cephalosporins, Fluoroquinolones Quinolones Quinolines, Macrolides, Tetracyclines
+Class 27: Penams, Cephamycins, Cephalosporins, Monobactams, Tetracyclines, Rifamycins, Phenicol antibiotics, Aminocoumarin antibiotics, Glycylcyclines, Fluoroquinolones Quinolones Quinolines, Triclosan, Macrolides, Glycylcyclines
+Class 28: Penems, Cephalosporins, Penams, Monobactams
+Class 29: Penems, Penams, Carbapenems, Cephamycins, Cephalosporins, Monobactams, Tetracyclines, Rifamycins, Phenicol antibiotics,  Glycylcyclines, Fluoroquinolones Quinolones Quinolines, Triclosan
+Class 30: Penems, Penams, Carbapenems, Cephamycins, Cephalosporins, Monobactams, Tetracyclines, Rifamycins, Phenicol antibiotics, Glycylcyclines, Fluoroquinolones Quinolones Quinolines, Triclosan
+Class 33: Quaternary ammonium compounds
+Class 34: Rifamycins, Peptide antibiotics
+Class 37: Tetracyclines, Glycylcyclines
+Class 4: Carbapenems, Penams, Cephalosporins
+Class 6: Cephalosporins, Penams, Tetracyclines, Glycylcyclines, Phenicol antibiotics, Rifamycins, Fluoroquinolones Quinolones Quinolines, Triclosan
+
+STATISTICS:
+Total genes: 52
+Total antibiotic classes: 37
+Non-zero values: 52
+Percentage of non-zero values: 2.70%
+Value range: 0.0 to 138.0

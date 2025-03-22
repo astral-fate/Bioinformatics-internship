@@ -1,0 +1,49 @@
+ANTIBIOTICS CLASS - SAMPLE ID REFERENCE GUIDE
+===========================================
+
+ANTIBIOTICS CLASS MAPPINGS:
+Class 11: Fluoroquinolones Quinolones Quinolines
+Class 18: Isoniazid, Ethionamide, Triclosan
+Class 2: Aminocoumarin antibiotics
+Class 21: Multiple antibiotic resistance
+Class 22: Multiple antibiotic resistance, Tetracyclines, Quaternary ammonium compounds
+Class 24: Myxopyronins Corallopyronins, Peptide antibiotics
+Class 33: Quaternary ammonium compounds
+Class 34: Rifamycins, Peptide antibiotics
+Class 37: Tetracyclines, Glycylcyclines
+Class 5: Carbapenems, Penams, Cephalosporins
+
+SAMPLE ID MAPPINGS:
+S1: Sample ID
+S10: Unnamed: 10
+S11: Unnamed: 11
+S12: Unnamed: 12
+S13: Unnamed: 13
+S14: Unnamed: 14
+S15: Unnamed: 15
+S16: Unnamed: 16
+S17: Unnamed: 17
+S18: Unnamed: 18
+S19: Unnamed: 19
+S2: Unnamed: 2
+S20: Unnamed: 20
+S21: Unnamed: 21
+S22: Unnamed: 22
+S23: Unnamed: 23
+S24: Unnamed: 24
+S25: Unnamed: 25
+S26: Unnamed: 26
+S27: Unnamed: 27
+S28: Unnamed: 28
+S29: Unnamed: 29
+S3: Unnamed: 3
+S30: Unnamed: 30
+S31: Unnamed: 31
+S32: Unnamed: 32
+S33: Unnamed: 33
+S4: Unnamed: 4
+S5: Unnamed: 5
+S6: Unnamed: 6
+S7: Unnamed: 7
+S8: Unnamed: 8
+S9: Unnamed: 9

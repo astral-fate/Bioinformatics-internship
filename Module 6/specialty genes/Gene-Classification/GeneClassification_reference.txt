@@ -1,0 +1,55 @@
+GENE CLASSIFICATION LABEL REFERENCE
+=====================================
+
+GENE LABELS:
+Gene 1: AAC(6')-Ic,f,g,h,j,k,l,r-z
+
+CLASSIFICATION LABELS:
+Class 1: aminocoumarin resistance gene
+Class 10: antibiotic resistant gene variant or mutant,efflux pump conferring antibiotic resistance,gene altering cell wall charge conferring antibiotic resistance,gene modulating antibiotic efflux,polymyxin resistance gene
+Class 11: antibiotic resistant gene variant or mutant,efflux pump conferring antibiotic resistance,gene modulating antibiotic efflux
+Class 12: antibiotic resistant gene variant or mutant,efflux pump conferring antibiotic resistance,gene modulating antibiotic efflux,gene modulating permeability to antibiotic
+Class 13: antibiotic resistant gene variant or mutant,fluoroquinolone resistance gene
+Class 14: antibiotic resistant gene variant or mutant,fosfomycin resistance gene
+Class 15: antibiotic resistant gene variant or mutant,nitrofuratoin resistance gene
+Class 16: antibiotic resistant gene variant or mutant,rifampin resistance gene
+Class 17: antibiotic resistant gene variant or mutant,sulfonamide resistance gene
+Class 18: antibiotic target in susceptible species
+Class 19: antibiotic target protection protein
+Class 2: aminoglycoside resistance gene
+Class 20: antibiotic target protection protein,fluoroquinolone resistance gene
+Class 21: antibiotic target replacement protein,sulfonamide resistance gene
+Class 22: antibiotic target replacement protein,trimethoprim resistance gene
+Class 25: efflux pump conferring antibiotic resistance
+Class 26: efflux pump conferring antibiotic resistance,gene altering cell wall charge conferring antibiotic resistance,gene conferring resistance via absence,gene modulating antibiotic efflux,polymyxin resistance gene
+Class 27: efflux pump conferring antibiotic resistance,gene modulating antibiotic efflux
+Class 28: efflux pump conferring antibiotic resistance,gene modulating antibiotic efflux,gene modulating permeability to antibiotic
+Class 29: gene altering cell wall charge conferring antibiotic resistance,polymyxin resistance gene
+Class 3: aminoglycoside resistance gene,antibiotic inactivation enzyme
+Class 30: gene conferring antibiotic resistance via molecular bypass,peptide antibiotic resistance gene
+Class 31: gene conferring resistance via absence
+Class 32: gene modulating antibiotic efflux,sulfonamide resistance gene
+Class 33: Intracellular survival and replication
+Class 35: Invasion,Adhesion,Biofilm,Cell motility
+Class 36: Invasion,Type III secretion
+Class 39: protein altering cell wall charge conferring antibiotic resistance
+Class 4: antibiotic activation enzyme
+Class 40: regulator modulating expression of antibiotic resistance genes
+Class 41: Secretion system,Type III secretion system
+Class 42: Secretion system,Type III secretion system,Invasion
+Class 43: Type III secretion,Virulence associated secretion systems
+Class 46: Virulence,Regulation of gene expression,Intracellular survival and replication
+Class 47: Virulence,Secretion system effectors
+Class 48: Virulence,Type III secretion,Secretion system effectors
+Class 5: antibiotic inactivation enzyme
+Class 6: antibiotic inactivation enzyme,beta-lactam resistance gene
+Class 7: antibiotic inactivation enzyme,chloramphenicol resistance gene
+Class 8: antibiotic resistance gene cluster,cassette,or operon
+Class 9: antibiotic resistant gene variant or mutant,beta-lactam resistance gene,gene modulating permeability to antibiotic
+
+STATISTICS:
+Total genes: 187
+Total classifications: 49
+Non-zero values: 204
+Percentage of non-zero values: 2.23%
+Value range: 0.0 to 138.0

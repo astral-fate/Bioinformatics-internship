@@ -1,0 +1,40 @@
+,Classification,,,,,,,,
+Antibiotics Class,antibiotic activation enzyme,antibiotic inactivation enzyme,"antibiotic resistance gene cluster,cassette,or operon",antibiotic target in susceptible species,antibiotic target protection protein,efflux pump conferring antibiotic resistance,gene conferring resistance via absence,protein altering cell wall charge conferring antibiotic resistance,regulator modulating expression of antibiotic resistance genes
+Aminocoumarin antibiotics,0,0,0,0,0,97,0,0,0
+Aminoglycosides,0,56,0,32,0,33,32,0,0
+Beta-lactam antibiotics,0,0,0,0,0,0,0,0,0
+Bicyclomycins,0,0,0,31,0,0,0,0,0
+"Carbapenems, Penams, Cephalosporins",0,2,0,0,0,0,0,0,0
+Cephalosporins,0,7,0,0,0,0,0,0,0
+Multiclass A,0,0,0,0,0,96,0,0,32
+Cycloserine,0,0,0,129,0,0,0,0,0
+Diaminopyrimidines,0,0,0,37,0,0,0,0,0
+Elfamycins,0,0,0,138,0,0,0,0,0
+Fluoroquinolones Quinolones Quinolines,0,0,0,32,6,62,0,0,31
+Multiclass B,0,0,0,32,0,0,0,0,0
+Multiclass C,0,0,0,0,0,96,0,0,0
+Fosfomycin,0,0,0,32,0,0,0,0,0
+Fosmidomycin,0,0,0,32,0,0,0,0,0
+Fusidic acid,0,0,0,33,0,0,0,0,0
+Isoniazid,32,0,0,0,0,0,0,0,32
+"Isoniazid, Ethionamide, Triclosan",0,0,0,32,0,0,0,0,0
+"Isoniazid, Triclosan",0,0,0,32,0,0,0,0,0
+Macrolides,0,0,0,0,0,64,0,0,0
+Multiple antibiotic resistance,0,0,0,0,0,64,0,0,0
+"Multiple antibiotic resistance, Tetracyclines, Quaternary ammonium compounds",0,0,0,0,0,32,0,0,0
+Mupirocin,0,0,0,32,0,0,0,0,0
+"Myxopyronins Corallopyronins, Peptide antibiotics",0,0,0,32,0,0,0,0,0
+Multiclass D ,0,0,0,0,0,32,0,0,0
+"Penams, Carbapenems, Cephamycins, Cephalosporins, Monobactams, Tetracyclines, Rifamycins, Phenicol antibiotics,  Glycylcyclines, Fluoroquinolones Quinolones Quinolines, Triclosan",0,0,32,0,0,0,0,0,0
+Multiclass E,0,0,0,0,0,0,0,0,41
+Multiclass F,0,0,0,0,0,32,0,0,0
+Multiclass G,0,12,0,0,0,0,0,0,0
+Multiclass H,0,0,32,0,0,0,0,0,0
+Multiclass I,0,0,32,0,0,0,0,0,0
+Peptide antibiotics,0,0,0,0,32,0,0,64,0
+Phenicol antibiotics,0,13,0,0,0,0,0,0,0
+Quaternary ammonium compounds,0,0,0,0,0,45,0,0,0
+"Rifamycins, Peptide antibiotics",0,0,0,32,0,0,0,0,0
+Sulfonamides,0,0,0,35,0,0,0,0,0
+Tetracyclines,0,0,0,0,0,3,0,0,0
+"Tetracyclines, Glycylcyclines",0,0,0,32,0,0,0,0,0

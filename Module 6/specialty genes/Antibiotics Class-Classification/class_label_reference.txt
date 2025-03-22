@@ -1,0 +1,27 @@
+ANTIBIOTICS CLASSIFICATION LABEL REFERENCE
+=========================================
+
+CLASS LABELS:
+Class 1: Aminocoumarin antibiotics
+Class 11: Fluoroquinolones Quinolones Quinolines
+Class 18: Isoniazid, Ethionamide, Triclosan
+Class 21: Multiple antibiotic resistance
+Class 22: Multiple antibiotic resistance, Tetracyclines, Quaternary ammonium compounds
+Class 24: Myxopyronins Corallopyronins, Peptide antibiotics
+Class 26: Penams, Carbapenems, Cephamycins, Cephalosporins, Monobactams, Tetracyclines, Rifamycins, Phenicol antibiotics,  Glycylcyclines, Fluoroquinolones Quinolones Quinolines, Triclosan
+Class 3: Beta-lactam antibiotics
+Class 34: Quaternary ammonium compounds
+Class 35: Rifamycins, Peptide antibiotics
+Class 38: Tetracyclines, Glycylcyclines
+Class 5: Carbapenems, Penams, Cephalosporins
+
+CATEGORY LABELS:
+Cat. 1: antibiotic activation enzyme
+Cat. 2: antibiotic inactivation enzyme
+Cat. 3: antibiotic resistance gene cluster,cassette,or operon
+Cat. 4: antibiotic target in susceptible species
+Cat. 5: antibiotic target protection protein
+Cat. 6: efflux pump conferring antibiotic resistance
+Cat. 7: gene conferring resistance via absence
+Cat. 8: protein altering cell wall charge conferring antibiotic resistance
+Cat. 9: regulator modulating expression of antibiotic resistance genes

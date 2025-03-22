@@ -1,0 +1,13 @@
+ANTIBIOTICS SAMPLE ID LABEL REFERENCE
+=====================================
+
+CLASS LABELS:
+Class 1: amikacin;gentamicin C;tobramycin
+Class 10: cetylpyridinium;cetyldimethylethyl ammonium;cetrimide
+Class 15: ciprofloxacin;metronidazole
+Class 28: isoniazid;ethionamide;triclosan
+Class 31: kirromycin;enacyloxin IIa;pulvomycin
+Class 33: mupirocin (pseudomonic acid)
+Class 42: tetracycline;rhodamine;benzalkonium chloride
+Class 5: bacitracin A;bacitracin B;bacitracin F
+Class 6: Benzalkonium chloride;daunomycin;rhodamine
