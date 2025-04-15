@@ -1,34 +1,38 @@
-# Bioinformatics-internship 
+# Bioinformatics Internship - Project Overview
 
+This repository documents my progress and learnings during a bioinformatics internship. The internship covered a range of essential bioinformatics skills, from data acquisition and preprocessing to advanced genomic analysis and statistical visualization.
 
-# Internship Overview
+## Modules and Key Learnings
 
+| Module | Main Topics Covered | Key Topics | Deliverables |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| [Module 1: Data Retrieval and Pre-processing](Module%201) | Introduction to data retrieval and pre-processing techniques for bioinformatics data. | - Understanding public databases (e.g., NCBI). <br> - Data retrieval strategies. <br> - Data cleaning and quality control methods.  | [Link to any scripts, notebooks, or documentation for Module 1]  |
+| [Module 2: Data Acquisition and Preprocessing](Module%202) | Focuses on retrieving isolates of pathogenic diseases from publicly available datasets. |  - NCBI database navigation and search. <br> - Identification and retrieval of pathogenic disease isolates.  | [Link to any scripts, notebooks, or documentation for Module 2]  |
+| [Module 3: Comprehensive Genome Analysis](Module%203) | Exploration of comprehensive genome analysis techniques | -Functional Annotation <br> - Data analysis methods. | [Link to any scripts, notebooks, or documentation for Module 3] |
+| [Module 4: Genomic Insights into Drug Resistance and Mechanisms of Adaptation](Module%204) | Investigating genomic factors related to drug resistance and adaptation mechanisms in microorganisms. | - Identification of drug resistance genes. <br> - Analysis of adaptive mutations. | [Link to any scripts, notebooks, or documentation for Module 4] |
+| [Module 5: Statistical Analysis and Visual Representation of Resistome Profile Study](Module%205) | Performing statistical analysis and creating visualizations to understand resistome profiles. | - Statistical methods for analyzing genomic data. <br> - Data visualization techniques (e.g., R, Python libraries).  | [Link to any scripts, notebooks, or documentation for Module 5] |
+| [Module 6: Subsystem](Module%206) |This chapter delves into the meaning of Subsystem, and how it influences resistance of Antimicrobial Resistance (AMR) | - What is a subystem <br> - Relationship with AMR.  | [Link to any scripts, notebooks, or documentation for Module 6] |
+| [Module 7: Comparative Genome Analysis (Insights into Spread and Transmission)](Module%207) | Using comparative genomics to understand the spread and transmission patterns of microorganisms. | - Phylogenetic analysis. <br> - Identifying transmission pathways.  | [Link to any scripts, notebooks, or documentation for Module 7] |
 
+## Tools and Technologies
 
+*   [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi): For sequence similarity searching.
+*   [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/): For quality control of sequencing data.
+*   Python: General purpose programming and data analysis.
+*   R: Statistical Computing and graphics.
+*   [NCBI](https://www.ncbi.nlm.nih.gov/): Database for genomic and proteomic data.
+*   [UniProt](https://www.uniprot.org/): Database for protein sequence and functional information.
 
-# Internship Syllabus
+## Overall Project Goals
 
+*   Develop strong skills in genomic data retrieval, analysis, and interpretation.
+*   Gain experience in identifying and characterizing antimicrobial resistance genes.
+*   Learn and apply statistical and visualization techniques to gain insights from genomic data.
+*   Contribute to a better understanding of the spread and mechanisms of antimicrobial resistance.
 
+## Future Directions
 
-| Module | Main Topics Covered | Key Topics | Deliverables
-|----------------|-------------------| ---- | ------ |
-| [Module 2: Data Acquisition and Preprocessing](https://github.com/astral-fate/Bioinformatics-internship/tree/main/Module%202) | It go through the ncbi Publicly available datasets to retrieve isolates of pathogenic diseases |  Key topics: <br> -ncbi <br> - pathogonic diseases <br> | 
-| [Module 3: Comprehensive Genome Analysis](https://github.com/astral-fate/Bioinformatics-internship/tree/main/Module%203) | This chapter focuses on MongoDB's various operators for constructing complex queries. It examines basic comparison operators ($eq, $gt, $gte, $lt, $lte), array operations ($in, $nin), and logical operators ($and, $or). The chapter includes detailed examples of range queries and demonstrates how to combine multiple operators for sophisticated data filtering. | | [Quiz 1](https://astral-fate.github.io/MongoDB-Comparison-and-Logic-Operators-quiz/)
-| [Module 4: Genomic Insights into Drug Resistance and Mechanisms of Adaptation](https://github.com/astral-fate/Bioinformatics-internship/tree/main/Module%204) | This chapter introduces fundamental MongoDB operations, including index management, document operations, and querying. It covers creating and managing indexes, basic CRUD operations, find operations with various options, projection techniques, and results management through limiting, sorting, and counting. The chapter provides a comprehensive foundation in working with MongoDB's core functionality. |  - Key topics: <br>- Index Operations <br> - FindOne <br>  - FindMany<br> - DeleteOne <br> - DeleteMany<br> - Projection<br> - Sort<br> - Count<br>| 
-| [Module 5: Statistical Analysis and Visual Representation of Resistome Profile Study](https://github.com/astral-fate/SE203-Advanced-Topics-in-Database/tree/main/MongoDB%20Database%20Structure%20and%20Operations) | This chapter examines MongoDB's database structure and CRUD operations in detail. It covers basic database operations including insert, update, and delete operations, explores advanced query operations with logical and comparison operators, and discusses database schema design with a focus on the company database structure. The chapter includes practical examples using a company database scenario. |
-| [Module 6: Advanced MongoDB Topics - Aggregation Framework](https://github.com/astral-fate/SE203-Advanced-Topics-in-Database/tree/main/Advanced%20MongoDB%20Aggregation%20Framework)  | This chapter delves into MongoDB's powerful aggregation framework. It covers basic aggregation operations ($avg, $sum, $min, $max), group operations with $group and $id, sorting and filtering techniques, join operations using $lookup, and projection operations. The chapter provides in-depth coverage of data analysis and transformation capabilities in MongoDB.| | [Aggregation Quiz](https://astral-fate.github.io/Advanced-MongoDB-Aggregation-Framework-Quiz/)
-| [Module 7: Comparative Genome Analysis (Insights into Spread and Transmission)] | This final chapter bridges MongoDB with Python through PyMongo. It covers connection setup, database operations, collection management, document operations, querying, index operations, and aggregation operations using Python. The chapter provides practical examples of implementing MongoDB operations in Python applications, complete with error handling and best practices.| | [PyMongo Quiz](https://astral-fate.github.io/PyMongo-Python-with-MongoDB/) 
+*   Further investigate the functional roles of specific antimicrobial resistance genes.
+*   Develop new bioinformatics tools for analyzing genomic data.
+*   Apply the learned techniques to study antimicrobial resistance in different bacterial species and environments.
 
-
-
-## Research project outlines
-
-
-- Module 4: Antimicrobial Resistant (AMR) Gene Analysis
-
-
-- Module 5: Data Cleaning and Visualization of Resistome Profile
-
-
-- Module 6: Subsystem Functional Categorization and Heatmap Representation
-(Visualization)
